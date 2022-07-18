@@ -1,6 +1,6 @@
 import React from "react";
 import { render } from "@testing-library/react";
-import { Header } from ".";
+import { Header } from "components/Header";
 
 describe("FadeInEntrance component", () => {
   let rootElement: any = null;
